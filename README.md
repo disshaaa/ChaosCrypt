@@ -69,3 +69,6 @@ _An advanced encryption tool combining Chaos Theory and AES for secure file encr
 
 ### 📝 **License**  
 This project is **open source** and free to use.  
+
+---
+⭐ Star this repo if you found it useful!
