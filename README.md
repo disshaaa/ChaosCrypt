@@ -32,7 +32,7 @@ _An advanced encryption tool combining Chaos Theory and AES for secure file encr
    ```
 2. Navigate to the directory and run the script:
    ```bash
-   python chaos_aes_tool.py
+   python chaos_aes_gui.py
    ```
 3. Follow the on-screen prompts:
    - Enter file path 📂
